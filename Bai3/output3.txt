@@ -1,0 +1,12 @@
+Thong tin nhan vien tim bang id: 
+Ma NV		Ho		Ten		Tien luong
+123		nguyen van		a		1111
+Nhan vien luong cao nhat:  
+ly thi ngoc	b
+Nhan vien luong thap nhat: 
+nguyen van	a
+Danh sach sau khi duoc sap sep theo ten: 
+	maNV	Holot	Ten	Luong
+	123	nguyen van	a	1111
+	345	ly thi ngoc	b	3333
+	234	tran thi	c	2222
